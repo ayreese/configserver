@@ -1,0 +1,2 @@
+# configserver
+java microservice example
